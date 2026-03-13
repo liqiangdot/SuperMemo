@@ -1,0 +1,12 @@
+SuperMemo Report
+   Activity: Operation: increase priority in elements
+   Collection: d:\_wintools\supermem\sm18-lazy-package-main\sm18\backup\(((backup of all in one created on 2025-05-15 15-15-56)))
+   Date: Friday, May 23, 2025, 3:38:30 PM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+
+Process completed at 3:38:30 PM in 00:00:00 sec (Friday, May 23, 2025)
+
+NO ERRORS (Operation: increase priority in elements)
+
+____________________________________________________________

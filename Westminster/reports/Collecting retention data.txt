@@ -1,0 +1,13 @@
+SuperMemo Report
+   Activity: Collecting retention data
+   Collection: d:\_wintools\supermem\sm18\sm18\systems\westminster
+   Date: Friday, March 6, 2026, 8:45:33 AM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Retention data errors can be ignored
+
+Process completed at 8:45:33 AM in 00:00:00 sec (Friday, March 6, 2026)
+
+NO ERRORS (Collecting retention data)
+
+____________________________________________________________

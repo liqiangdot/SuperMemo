@@ -1,0 +1,12 @@
+SuperMemo Report
+   Activity: Generating repetition history subsets
+   Collection: d:\_wintools\supermem\sm18\sm18\systems\westminster
+   Date: Friday, March 6, 2026, 8:45:32 AM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+
+Process completed at 8:45:32 AM in 00:00:00 sec (Friday, March 6, 2026)
+
+NO ERRORS (Generating repetition history subsets)
+
+____________________________________________________________

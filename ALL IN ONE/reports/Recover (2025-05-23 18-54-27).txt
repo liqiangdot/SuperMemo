@@ -1,0 +1,20 @@
+SuperMemo Report
+   Activity: Checking the integrity of the collection
+   Collection: d:\_wintools\supermem\sm18-lazy-package-main\sm18\backup\(((backup of all in one created on 2025-05-15 15-15-56)))
+   Date: Friday, May 23, 2025, 6:54:27 PM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Checking 2,172 element records (ElementInfo.dat)
+Verifying integrity of element data (2172 elements in ElementInfo.dat)
+Verifying knowledge tree (2,172 elements in Contents.dat)
+660 children at Topic #1,196: Other
+Verifying the priority queue of 1,088 elements
+Verifying repetition schedule (Workload.dat and ElementInfo.dat)
+Verifying pending queue (Intact.dat)
+Verifying A-Factor, Lapses and Repetitions distributions
+
+Process completed at 6:54:28 PM in 00:00:00 sec (Friday, May 23, 2025)
+
+NO ERRORS (Checking the integrity of the collection)
+
+____________________________________________________________

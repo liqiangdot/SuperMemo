@@ -1,0 +1,2 @@
+3月 12, 2026, 16:08:37:    Wrong component index: 0 (18.05, Oct 29, 2020)
+3月 12, 2026, 16:24:29:    Errors in imported text file .. Premature element source termination .. Element text: 第一章 论圣经 .. 一．自然之光和创造、护理之工，原彰显上帝的慈爱、智慧和权能，使人无可推诿；但它们并不足以将那得救所必需的对上帝及其旨意的知识给与人；所以主乐意多次多方将自己启示出来，向教会晓喻祂的旨 ... (18.05, Oct 29, 2020)

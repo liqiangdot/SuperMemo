@@ -1,0 +1,12 @@
+SuperMemo Report
+   Activity: Operation: export questions and answer from elements
+   Collection: d:\_wintools\supermem\sm18-lazy-package-main\sm18\systems\all in one
+   Date: Wednesday, May 28, 2025, 11:26:09 AM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+
+Process completed at 11:26:09 AM in 00:00:00 sec (Wednesday, May 28, 2025)
+
+NO ERRORS (Operation: export questions and answer from elements)
+
+____________________________________________________________

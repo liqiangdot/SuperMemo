@@ -1,0 +1,22 @@
+SuperMemo Report
+   Activity: Operation: decrease priority in elements
+   Collection: d:\_wintools\supermem\sm18-lazy-package-main\sm18\systems\all in one
+   Date: Thursday, May 22, 2025, 11:22:04 AM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+++++++++++++++++++++++    ERROR #1   ++++++++++++++++++++++
+   Fixing missing last repetition date
+   Repetition history: May 22, 2025, 11:00:57
+   Element info: May 29, 2025
+   Topic #736: Ê£Óà´ýÑ§Ï°
+++++++++++++++++++++++    ERROR #2   ++++++++++++++++++++++
+   Fixing missing last repetition date
+   Repetition history: May 22, 2025, 11:00:57
+   Element info: May 29, 2025
+   Topic #736: Ê£Óà´ýÑ§Ï°
+
+Process completed at 11:22:05 AM in 00:00:00 sec (Thursday, May 22, 2025)
+
+2 ERRORS (Operation: decrease priority in elements)
+
+____________________________________________________________
